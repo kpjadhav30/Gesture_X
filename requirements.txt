@@ -1,8 +1,8 @@
-GestureX - AI Sign Language & Gesture Control System
+# GestureX - AI Sign Language & Gesture Control System
 
 numpy 
 opencv-python 
-mediapipe 
+mediapipe == 0.10.14
 scikit-learn 
 joblib 
 streamlit
