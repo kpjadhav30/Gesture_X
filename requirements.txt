@@ -1,5 +1,4 @@
 # GestureX - AI Sign Language & Gesture Control System
-
 numpy 
 opencv-python 
 mediapipe == 0.10.14
